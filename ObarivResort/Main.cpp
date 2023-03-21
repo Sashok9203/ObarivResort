@@ -16,7 +16,5 @@ int main()
 
 	price = ObRes.holidaysPleasure(5, 24, Female, false);
 	price.show();
-
-
 }
 
