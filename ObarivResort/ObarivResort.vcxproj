@@ -127,7 +127,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Bar.cpp" />
+    <ClCompile Include="Billiard.cpp" />
+    <ClCompile Include="Cinema.cpp" />
+    <ClCompile Include="NightClub.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Massage.cpp" />
+    <ClCompile Include="ObarivResort.cpp" />
+    <ClCompile Include="Pool.cpp" />
+    <ClCompile Include="Price.cpp" />
+    <ClCompile Include="Restaurant.cpp" />
+    <ClCompile Include="Time.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bar.h" />
+    <ClInclude Include="Billiard.h" />
+    <ClInclude Include="Cinema.h" />
+    <ClInclude Include="NightClub.h" />
+    <ClInclude Include="Massage.h" />
+    <ClInclude Include="ObarivResort.h" />
+    <ClInclude Include="Pool.h" />
+    <ClInclude Include="Price.h" />
+    <ClInclude Include="Restaurant.h" />
+    <ClInclude Include="Time.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
